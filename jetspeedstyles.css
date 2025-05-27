@@ -1,0 +1,129 @@
+/* jetspeedstyles.css */
+
+/* General Styles */
+body {
+    font-family: sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f9f9f9;
+    color: #333;
+    line-height: 1.6;
+}
+
+.container {
+    max-width: 960px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+h1 {
+    color: #003366;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+h2 {
+    color: #007bff;
+    margin-bottom: 15px;
+}
+
+p {
+    margin-bottom: 15px;
+    color: #555;
+}
+
+a {
+    color: #007bff;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+.floatLeft {
+    float: left;
+    margin-right: 20px;
+    width: 45%;
+}
+
+.floatRight {
+    float: right;
+    margin-left: 20px;
+    width: 45%;
+}
+
+.clearFloat {
+    clear: both;
+}
+
+/* Header Styles */
+header {
+    background-color: #fff;
+    padding: 20px 0;
+    border-bottom: 2px solid #ddd;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+header img {
+    max-height: 60px;
+    margin-bottom: 10px;
+}
+
+header nav {
+    background-color: #003366;
+    color: #fff;
+    width: 100%;
+    padding: 10px 0;
+}
+
+header nav .container ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+}
+
+header nav .container ul li {
+    margin: 0 15px;
+}
+
+header nav .container ul li a {
+    color: #fff;
+    padding: 10px 15px;
+    display: block;
+    text-decoration: none;
+}
+
+header nav .container ul li a:hover {
+    background-color: #0056b3;
+}
+
+/* Main Styles */
+main {
+    padding: 30px 0;
+}
+
+main > .container > h1:first-child {
+    margin-top: 0;
+}
+
+main img {
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 20px;
+    border: 1px solid #ddd;
+    box-shadow: 2px 2px 5px #ccc;
+    display: block; /* Ensure images are block-level */
+    margin: 20px auto; /* Center images horizontally */
+}
+
+main > .container > h2 {
+    margin-top: 30px;
+    text-align: center; /* Center subheadings */
+}
+
+/* Customer Box
