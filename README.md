@@ -76,8 +76,6 @@ Distributed under the MIT License. See `LICENSE.md` for more information. *(You'
 
 * **Your Name:** Alasdair MacDonald
 * **LinkedIn:** [Alasdair MacDonald's LinkedIn](http://www.linkedin.com/in/alasdair-macdonald-60b178326)
-* **GitHub Project:** [Link to your GitHub Repository](https://github.com/your-username/jetspeed-travel) *(Remember to update this with your actual GitHub repo URL once created)*
-* **Live Site (if deployed):** [Your Live Website URL] *(Optional: Add this if you deploy your site)*
 
 ## Acknowledgements
 
